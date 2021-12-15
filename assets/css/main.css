@@ -803,6 +803,34 @@ input, select, textarea {
 
 		}
 
+		.image2.center {
+			display: block;
+			margin: 2.5rem 0;
+			width: 75%;
+			height: 75%;
+			object-fit: contain;
+		}
+
+			.image2.center img {
+				width: 75%;
+			}
+
+		@media screen and (max-width: 736px) {
+
+			.image2.center {
+				margin: 2rem 0;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.image2.center {
+				margin: 1.5rem 0;
+			}
+
+		}
+
 /* List */
 
 	ol {
