@@ -731,7 +731,7 @@ input, select, textarea {
 
 		.image2:before {
 			pointer-events: none;
-			border-radius: 4px;
+			border-radius: 5%;
 			content: '';
 			display: block;
 			height: 100%;
