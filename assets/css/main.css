@@ -782,6 +782,7 @@ input, select, textarea {
 			margin: 2.5rem 0;
 			width: 100%;
 			border-radius: 5%;
+			overflow: hidden;
 		}
 
 			.image2.main img {
@@ -811,6 +812,7 @@ input, select, textarea {
 			aspect-ratio: 1 / 1; /* ⏹ a perfect square */
 			/*object-fit: cover;*/
 			border-radius: 5%;
+			overflow: hidden;
 		}
 
 			.image2.center img {
