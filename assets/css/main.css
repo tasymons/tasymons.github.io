@@ -809,6 +809,7 @@ input, select, textarea {
 			margin: 2.5rem 0;
 			width: 75%;
 			aspect-ratio: 1 / 1; /* ⏹ a perfect square */
+			padding-top: 100%; /* 1:1 Aspect Ratio */
 			object-fit: cover;
 			border-radius: 5%;
 		}
