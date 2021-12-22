@@ -1272,11 +1272,11 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			/* background-image: url("../../images/bg.jpg"); OG here */
-			/* background-image: url("../../images/STScI-01EVT7TY5DBT2JW8YZH97DZ5HR.jpg"); */ /* orion - good */
+			background-image: url("../../images/STScI-01EVT7TY5DBT2JW8YZH97DZ5HR.jpg"); /* orion - good */
 			/* background-image: url("../../images/STScI-01EVVCHYFXPA35BQ4GQTW6A733.jpg"); /* SMC - harder to read text */ 
 			/* background-image: url("../../images/arp299.jpg");  /* arp299 - ok */
 			/* background-image: url("../../images/m106.jpg"); /* m106 - good */
-			background-image: url("../../images/stsci-h-p1821a-m-1699x2000.png"); /* lagoon */
+			/* background-image: url("../../images/stsci-h-p1821a-m-1699x2000.png"); /* lagoon - ok */
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
